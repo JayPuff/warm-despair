@@ -1,0 +1,27 @@
+{
+    "name": "warm-despair",
+    "displayName": "Warm Despair",
+    "publisher": "dark-mode-dev",
+    "description": "Modified Dark Mode Warm theme. Developed for web Development!",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jaypuff/warm-despair.git"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Warm Despair",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Warm Despair-color-theme.json"
+            }
+        ]
+    }
+}

@@ -2,8 +2,8 @@
     "name": "warm-despair",
     "displayName": "Warm Despair",
     "publisher": "dark-mode-dev",
-    "description": "Modified Dark Mode Warm theme. Developed for web Development!",
-    "version": "0.0.2",
+    "description": "Modified Dark Mode Warm theme. Developed for Web/Vue Dev!",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.36.0"
     },

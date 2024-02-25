@@ -1,6 +1,6 @@
 {
-    "name": "vue-dark-mode-warm",
-    "displayName": "Vue Dark Mode Warm",
+    "name": "dark-vue-theme",
+    "displayName": "Dark Vue Theme",
     "publisher": "jaypuff",
     "description": "Modified Dark Mode Warm theme. Developed for Web/Vue Dev!",
     "version": "0.0.69",
@@ -18,9 +18,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Warm Despair",
+                "label": "Dark Vue Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Warm Despair-color-theme.json"
+                "path": "./themes/Dark Vue Theme-color-theme.json"
             }
         ]
     }

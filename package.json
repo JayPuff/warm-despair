@@ -1,9 +1,9 @@
 {
-    "name": "warm-despair",
-    "displayName": "Warm Despair",
-    "publisher": "dark-mode-dev",
+    "name": "vue-dark-mode-warm",
+    "displayName": "Vue Dark Mode Warm",
+    "publisher": "jaypuff",
     "description": "Modified Dark Mode Warm theme. Developed for Web/Vue Dev!",
-    "version": "0.0.3",
+    "version": "0.0.69",
     "engines": {
         "vscode": "^1.36.0"
     },

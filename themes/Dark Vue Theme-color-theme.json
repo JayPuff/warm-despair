@@ -775,6 +775,8 @@
     {
       "scope": ["punctuation.definition.typeparameters.end"],
       "settings": { "foreground": "#fa912f" }
-    }
+    },
+    {"scope": ["punctuation.accessor.optional.js"],
+      "settings": { "foreground": "#CD83CF" }},
 	]
 }

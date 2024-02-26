@@ -766,7 +766,7 @@
     },
     {
       "scope": ["entity.name.type"],
-      "settings": { "foreground": "#FABD2F" }
+      "settings": { "foreground": "#4EC9B0" }
     },
     {
       "scope": ["punctuation.definition.typeparameters.begin"],

@@ -3,9 +3,10 @@
 Modified Dark Mode Warm theme.
 Currently used for web development in JS/TS Vue
 
-Tested and adjusted for many different languages for a consistent color scheme that makes sense.
+Will highlight Vue `v-for`, `v-if`, and other vue related shorthands like `:`, `#` or `@` in a greenish color on templates for easier visual parsing
 
-JS, TS, css, sass, html, pug, json, vue sfc, etc.
+Expects proper language extensions to be installed before hand.
+Ex: Volar for vue, Sass/Pug accordingly for those as well, etc.
 
 ## Screenshot 
 ![](https://raw.githubusercontent.com/JayPuff/warm-despair/master/icon.png).

@@ -11,3 +11,7 @@
 ## [0.0.69]
 
 - Vue syntax
+
+## [1.0.0]
+
+- Changes to highlights, search colors, added optional chaining consistent color, changed typescript types to be consistent with classes/etc colors

@@ -15,3 +15,7 @@
 ## [1.0.0]
 
 - Changes to highlights, search colors, added optional chaining consistent color, changed typescript types to be consistent with classes/etc colors
+
+## [1.0.1]
+
+- Added optional chaining style for ts as well, added some extra bracket colorization colors for depth 3-6

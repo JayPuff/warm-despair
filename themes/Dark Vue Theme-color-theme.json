@@ -777,5 +777,6 @@
       "settings": { "foreground": "#fa912f" }
     },
     { "scope": ["punctuation.accessor.optional.js"], "settings": { "foreground": "#CD83CF" }},
+    { "scope": ["punctuation.accessor.optional.ts"], "settings": { "foreground": "#CD83CF"}},
 	]
 }

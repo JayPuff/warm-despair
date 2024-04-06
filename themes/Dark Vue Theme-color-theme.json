@@ -478,7 +478,7 @@
       "name": "[CSS] - Element Selector also [HTML] tag...",
       "scope": "entity.name.tag",
       "settings": {
-          "foreground": "#7abbf7"
+          "foreground": "#6ccad6"
       }
     },
     {

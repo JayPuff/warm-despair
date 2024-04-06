@@ -3,7 +3,7 @@
     "displayName": "Dark Vue Theme",
     "publisher": "jaypuff",
     "description": "Modified Dark Mode Warm theme. Developed for Web/Vue Dev!",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "engines": {
         "vscode": "^1.36.0"
     },

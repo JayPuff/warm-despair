@@ -23,3 +23,7 @@
 ## [2.0.0]
 
 - Final rework to theme
+
+## [2.0.1]
+
+- Small fix to HTML tag colors

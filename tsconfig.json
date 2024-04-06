@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "allowImportingTsExtensions": true,
+    "outDir": "public",
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "isolatedModules": true,
+    "skipLibCheck": true,
+    "strictNullChecks": true,
+    "noEmit": true,
+    "strict": true,
+    "paths": {
+      "@/*": [
+        "./app/*" // set path `@/*` as alias of `src/*`
+      ]
+    },
+  },
+  "vueCompilerOptions": {
+    "plugins": [
+      "@vue/language-plugin-pug"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "app",
+    // ".eslintrc.js"
+  ]
+}

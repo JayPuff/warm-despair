@@ -19,3 +19,7 @@
 ## [1.0.1]
 
 - Added optional chaining style for ts as well, added some extra bracket colorization colors for depth 3-6
+
+## [2.0.0]
+
+- Final rework to theme
